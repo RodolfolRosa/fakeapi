@@ -1,22 +1,14 @@
-[
-  {
-    "id": "1",
-    "titulo": "Entendendo o ES6",
-    "url": "https://www.codeprestige.com.br/cursos/es6"
-  },
-  {
-    "id": 2,
-    "titulo": "Produtividade Máxima com o VS Code",
-    "url": "https://www.udemy.com/truques-vscode/"
-  },
-  {
-    "id": 3,
-    "titulo": "Entendendo o ES7/ES8",
-    "url": "https://www.codeprestige.com.br/cursos/es7-8"
-  },
-  {
-    "id": 4,
-    "titulo": "React 16 Definitivo",
-    "url": "https://www.udemy.com/react-16/"
-  }
-]
+{
+	"pedidos": [{
+		"idPedido" : "1",
+		"valorTotal": "1200",
+		"dataPedido": "11/11/2011",
+		"dataEntrega": "11/11/2011"
+	}, {
+		"idPedido" : "2",
+		"valorTotal": "2200",
+		"dataPedido": "12/12/2012",
+		"dataEntrega": "12/12/2012"	
+	}]
+}
+		
