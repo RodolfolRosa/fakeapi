@@ -1,0 +1,14 @@
+{
+	"pedidos": [{
+		idPedido" : 1,
+		"valorTotal": 1200,
+		"dataPedido": "11/11/2011",
+		"dataEntrega": "11/11/2011"
+	}, {
+		idPedido" : 2,
+		"valorTotal": 2200,
+		"dataPedido": "12/12/2012",
+		"dataEntrega": "12/12/2012"	
+	}]
+}
+		
